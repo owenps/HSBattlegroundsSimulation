@@ -29,4 +29,4 @@ python GetMinions.py
 ## TO DO
 * Argparse for download flags
 * Fetch descriptions
-* Deal with two missing minions (Amalgam)
+* Deal with two missing minions (Amalgam, Weaver)
